@@ -128,4 +128,4 @@ MIT
 
 ## 👥 Contributors
 
-[Your Team]
+YOU
